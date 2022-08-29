@@ -1,0 +1,47 @@
+
+
+.height10{
+  height: 0px;
+}
+.mtop10{
+  margin-top:0px;
+}
+.modal-label{
+  position:relative;
+  top:0px
+}
+
+
+
+
+
+
+}
+.link-button{
+transition: .3s;
+}
+.link-button:hover{
+transform: scale(1.1);
+}
+
+.button{
+text-align : center;
+}
+
+.modal-body {
+position: relative;
+padding: 0px;
+
+}
+.modal-header {
+padding: 0px;
+border-bottom: 0px solid #e5e5e5;
+
+}
+.modal-footer {
+padding: 15px;
+text-align: right;
+border-top: 0px solid #e5e5e5;
+
+
+}
