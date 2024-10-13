@@ -33,7 +33,7 @@ To run the Spare Part Online Store on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/spare-part-online-store.git
+   git clone https://github.com/axcids/spare-part-online-store.git
 
 2. **Navigate to the project directory:**
    ```bash
